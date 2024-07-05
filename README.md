@@ -1,6 +1,7 @@
-Topic: Just-in-Time Cybersecurity Awareness Training
-Subject: AWS S3 Buckets Cybersecurity Issue
-News Source: ThreatPost - [SEGA's Exposed AWS S3 Bucket Story](https://threatpost.com/sega-security-aws-s3-exposed-steam/177352/)
+Topic: Just-in-Time Cybersecurity Awareness Training <br />
+Subject: AWS S3 Buckets Cybersecurity Issue <br />
+News Source: ThreatPost - [SEGA's Exposed AWS S3 Bucket Story](https://threatpost.com/sega-security-aws-s3-exposed-steam/177352/) <br />
+Video Link: [AWS S3 Buckets | Just-in-Time Cybersecurity Awareness](https://youtu.be/nv1elFroqCo?si=pWaksUeisJi4yF_p)
 
 # AWS S3 Buckets-SEGA Story
 
